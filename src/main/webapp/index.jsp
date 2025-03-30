@@ -8,7 +8,7 @@
 	<h1 style="color: green; font-size: 40px;" align="center">9533377320</h1>
 	<h1 style="color: green; font-size: 40px;" align="center">9533377320</h1>
 	<h1 style="color: green; font-size: 40px;" align="center">MLN</h1>
-        <a href="https://en.wikipedia.org/wiki/Virat_Kohli">about Kohli</a>
+        <a href="https://en.wikipedia.org/wiki/Virat_Kohli">about Kohli2</a>
 <img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
 	
 	
